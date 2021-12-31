@@ -1,0 +1,17 @@
+h3{
+    color: White;
+    background-color:black;
+}
+
+ul{
+    color: green;
+}
+
+ol{
+    color: blue;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
